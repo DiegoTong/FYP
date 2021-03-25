@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EnableMenu">
+    <Position X="4.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAIAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EnableMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager" Collapsed="true">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GPS">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIACAAAAIAAAAAQAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GPS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageRecognition">
+    <Position X="11.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAYAAAAAACAAAAAEAAAAAAAAAAAACAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\ImageRecognition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="objectSpawner">
+    <Position X="9" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQggAAAAGAAAIAAAAAACAAAARQAEABAAAAEAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\objectSpawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlacementController">
+    <Position X="13.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQggAAAAGAAAAAAAAAAAAAAAQQAEABAAAAEAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\PlacementController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlacementIndicator">
+    <Position X="11.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAAAAACAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlacementIndicator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlacementObject">
+    <Position X="6.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAICAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlacementObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayGame">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAECAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RespawnBall">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAACAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\RespawnBall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scene_Manager">
+    <Position X="13.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQFACAAADAAAAAMAIAAAAAAAAAAAAQISAYAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Scene_Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpawnObjectinArea">
+    <Position X="15" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SpawnObjectinArea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="swipeball">
+    <Position X="15" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAACCAAIAAEAAAAAAAAABgAAAAAAAAAAAAAAAo=</HashCode>
+      <FileName>Assets\Scripts\swipeball.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIManager">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAQAAAAIAAAAAAAAEIAAAAABAA=</HashCode>
+      <FileName>Assets\Scripts\UIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
